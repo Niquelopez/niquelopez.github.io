@@ -256,7 +256,7 @@ st.markdown(
     }
     </style>
     <div class="footer">
-        VERSÃO CORRENTE (4.19) PILOTO STARTADO 04/02
+      Ultima atualização da base 20/02 - 12:00
     </div>
     """,
     unsafe_allow_html=True
